@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "label": "1",
+    "image": "image_guess_1",
+    "question": "این میوه چیست؟",
+    "options": [
+      "توت فرنگی",
+      "سیب",
+      "گوجه فرنگی"
+    ],
+    "correctOption": "توت فرنگی"
+  },
+  {
+    "id": 2,
+    "label": "2",
+    "image": "image_guess_2",
+    "question": "این حیوان چیست؟",
+    "options": [
+      "گرگ",
+      "ببر",
+      "خرگوش"
+    ],
+    "correctOption": "ببر"
+  },
+  {
+    "id": 3,
+    "label": "3",
+    "image": "image_guess_3",
+    "question": "این میوه چیست؟",
+    "options": [
+      "موز",
+      "شلغم",
+      "گلابی"
+    ],
+    "correctOption": "گلابی"
+  },
+  {
+    "id": 4,
+    "label": "4",
+    "image": "image_guess_4",
+    "question": "این حیوان چیست؟",
+    "options": [
+      "گربه",
+      "سگ",
+      "خرگوش"
+    ],
+    "correctOption": "سگ"
+  },
+  {
+    "id": 5,
+    "label": "5",
+    "image": "image_guess_5",
+    "question": "این تصویر چیست؟",
+    "options": [
+      "سبزی",
+      "نخود",
+      "ذرت"
+    ],
+    "correctOption": "ذرت"
+  },
+  {
+    "id": 6,
+    "label": "6",
+    "image": "image_guess_6",
+    "question": "این تصویر چیست؟",
+    "options": [
+      "کیوی",
+      "کمپوت",
+      "گلابی"
+    ],
+    "correctOption": "کیوی"
+  },
+  {
+    "id": 7,
+    "label": "7",
+    "image": "image_guess_7",
+    "question": "این تصویر چیست؟",
+    "options": [
+      "موش",
+      "میمون",
+      "گوسفند"
+    ],
+    "correctOption": "میمون"
+  },
+  {
+    "id": 8,
+    "label": "8",
+    "image": "image_guess_8",
+    "question": "این تصویر چیست؟",
+    "options": [
+      "کرگدن",
+      "صخره",
+      "فیل"
+    ],
+    "correctOption": "فیل"
+  },
+  {
+    "id": 9,
+    "label": "9",
+    "image": "image_guess_9",
+    "question": "این تصویر چیست؟",
+    "options": [
+      "مرغ",
+      "کبوتر",
+      "پنگوئن"
+    ],
+    "correctOption": "پنگوئن"
+  },
+  {
+    "id": 10,
+    "label": "10",
+    "image": "image_guess_10",
+    "question": "این تصویر چیست؟",
+    "options": [
+      "نارنگی",
+      "کدوتنبل",
+      "توپ"
+    ],
+    "correctOption": "کدوتنبل"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "color": "#ffffff",
+    "icon": "ic_hear"
+  },
+  {
+    "id": 2,
+    "color": "#FFDC81",
+    "icon": "ic_cat"
+  },
+  {
+    "id": 3,
+    "color": "#FFB184",
+    "icon": "ic_moon"
+  },
+  {
+    "id": 4,
+    "color": "#1CC88A",
+    "icon": "ic_star"
+  },
+  {
+    "id": 5,
+    "color": "#9C2CF3",
+    "icon": "ic_tree"
+  },
+  {
+    "id": 6,
+    "color": "#D20A0A",
+    "icon": "ic_flower"
+  },
+  {
+    "id": 7,
+    "color": "#43F9FF",
+    "icon": "ic_energy"
+  },
+  {
+    "id": 7,
+    "color": "#FE8FE6",
+    "icon": "ic_cloud"
+  }
+]
